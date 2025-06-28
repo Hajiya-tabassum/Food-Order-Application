@@ -141,7 +141,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://github.com/Hajiya-tabassum/Food-Order-Application/tree/main/Documents](https://github.com/Hajiya-tabassum/Food-Order-Application/tree/main/Documents)
 
 ## 📄 Document Template
 
