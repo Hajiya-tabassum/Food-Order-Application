@@ -72,7 +72,7 @@ For support or inquiries, please contact the project maintainer at [].
 ## 📄 Document Template
 
 You can find the document templates for this project here:  
-[https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A](https://drive.google.com/drive/folders/1A5L-mxhw6iCqVZYprG8gAwj945QIJh8A)
+[https://github.com/Hajiya-tabassum/Food-Order-Application/tree/main/Documents](https://github.com/Hajiya-tabassum/Food-Order-Application/tree/main/Documents)
 
 # Getting Started with Create React App
 
